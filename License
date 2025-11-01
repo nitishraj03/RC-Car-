@@ -1,0 +1,13 @@
+
+## 💡 Optional Additions to Stand Out
+- `demo.mp4` or YouTube video in `/docs`  
+- A short **“how it works”** paragraph with a block diagram  
+- Add commit messages like:
+  > “Added motor control logic”  
+  > “Improved Bluetooth response timing”
+
+---
+
+Would you like me to also give you the **Arduino `.ino` code** (Bluetooth control with L298N and HC-05)?  
+I can generate a clean, commented version you can directly upload.
+
